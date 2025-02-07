@@ -1,4 +1,2 @@
-libcairo2-dev==1.16.0 
-texlive texlive-latex-extra texlive-fonts-extra texlive-latex-recommended texlive-science tipa 
-libpango1.0-dev==1.40
+
 manim==0.19.0 IPython==8.21.0 numpy==1.25.0 scipy==1.11.0 Pillow==10.0.0 progressbar2==4.2.0 pangocffi==0.7.0 cairocffi==1.5.0 pycairo==1.24.0 opencv-python==4.8.0.74 Pygments==2.15.0 requests==2.31.0 ffmpeg-python==0.2.0
